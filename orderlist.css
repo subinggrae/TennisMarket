@@ -1,0 +1,13 @@
+.order-title {
+ text-align: center;
+}
+
+.home-link {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.order-table {
+  border: 1px solid black;
+  margin: 0 auto;
+}
